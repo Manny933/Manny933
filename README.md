@@ -5,8 +5,6 @@
 I’m a software developer who enjoys building things that actually work in the real world.  
 My focus is on writing clean, maintainable code while constantly learning new technologies and improving my craft.
 
-I recently completed my **Associate's Degree in Software Development from Spokane Community College**, where I built projects across full-stack web development, APIs, and modern JavaScript frameworks.
-
 For me, programming is equal parts **problem solving, creativity, and persistence**. I enjoy breaking down complex ideas into working solutions and continuously sharpening my skills with new tools and technologies.
 
 ---
