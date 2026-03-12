@@ -28,29 +28,24 @@ For me, programming is equal parts **problem solving, creativity, and persistenc
 - SQL  
 - Kotlin  
 - HTML5  
-- CSS3  
+- CSS3
 
 ### Frameworks & Libraries
 - React  
 - Redux  
 - Node.js  
 - Express  
-- Laravel  
+- Laravel
 
-### Databases
-- MySQL  
-- MongoDB  
-- NoSQL systems  
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/css" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/php" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/kotlin" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/redux" width="64px" />
+<div>
 
-### Tools & Technologies
-- Git & GitHub  
-- Jest (testing)  
-- Storybook  
-- VS Code  
-- REST APIs  
-- Agile workflows  
-
----
 
 ## 📂 Projects
 
