@@ -72,6 +72,7 @@ Each repository includes documentation explaining the purpose of the project and
 - Expanding my **full-stack development skills**
 - Building more **portfolio-ready applications**
 - Learning deeper **system design and backend architecture**
+- Learning DevOps.
 
 ---
 
